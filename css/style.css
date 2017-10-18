@@ -1,15 +1,15 @@
 div {
-    display: inline;
-    margin: 10px; 
-    border: 2px;
-    padding: 10px;
+    display: inline; /*declarando el comportamiento*/
+    margin: 10px;   /*modificando el margen*/
+    border: 2px;    /*modificando el borde*/
+    padding: 10px;  /*modificando el padding*/
 }
 
-.yellow {
-    background-color: gold;
+.gold {
+    background-color: gold; /*estableciendo el color de fondo*/
 }
 
 .black {
-    background-color: black;
-    color: white;
+    background-color: black;    /*estableciendo el color de fondo*/
+    color: white;   /*estableciendo el color del contenido*/
 }
