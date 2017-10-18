@@ -1,0 +1,15 @@
+div {
+    display: inline;
+    margin: 10px; 
+    border: 2px;
+    padding: 10px;
+}
+
+.yellow {
+    background-color: gold;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
